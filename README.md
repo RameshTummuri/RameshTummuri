@@ -1,15 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ramesh Tummuri</h1>
 
 <p align="center">
+  <b>💼 Open to Internships & Entry-Level Full-Time Roles</b>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=3rd-Year+CSE+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;NxtWave+(CCBP+4.0+Academy)+Learner;Actively+Seeking+Internships+%26+Full-Time+Roles" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RameshTummuri&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🧠 Quick Snapshot
+- 🎓 3rd-Year BTech CSE Student  
+- 🤖 AI / Machine Learning Enthusiast  
+- 🌐 Full Stack Web Developer  
+- 📚 NxtWave (CCBP 4.0 Academy) Learner  
+- 💼 Actively applying for internships & entry-level roles  
 
+---
+
+## 💫 About Me
 A **3rd-year Computer Science Engineering student** and **NxtWave (CCBP 4.0 Academy) learner**, passionate about **Artificial Intelligence, Machine Learning, and Full Stack Web Development**.  
-Actively seeking **internship and entry-level full-time opportunities** to apply my skills in real-world projects 🚀
+I aim to build **intelligent, real-world applications** and am actively seeking opportunities to apply and grow my skills 🚀
 
 ---
 
@@ -24,7 +40,7 @@ Actively seeking **internship and entry-level full-time opportunities** to apply
 - Python for Data Science & ML  
 - Java, HTML, CSS, JavaScript  
 - Backend & database fundamentals  
-- Industry-aligned curriculum at **NxtWave (CCBP 4.0 Academy)**
+- Industry-aligned curriculum at **NxtWave (CCBP 4.0 Academy)**  
 
 ---
 
@@ -38,44 +54,57 @@ Actively seeking **internship and entry-level full-time opportunities** to apply
 ## 🌱 I’m currently learning
 - Machine Learning & AI concepts  
 - Python for Data Science & ML  
-- Java, HTML, CSS, JavaScript  
+- Full Stack Web Development  
 - Backend & database fundamentals  
 
 ---
 
-## 💬 Ask me about
-- AI/ML basics  
-- Java & OOP concepts  
-- Full Stack student projects  
-- Internship preparation  
+## 📈 Skill Proficiency
+- **Python / ML** ▰▰▰▰▰▰▱▱▱▱ 70%  
+- **Java** ▰▰▰▰▰▰▰▱▱▱ 75%  
+- **Full Stack Development** ▰▰▰▰▰▰▱▱▱▱ 70%  
+- **Databases** ▰▰▰▰▰▱▱▱▱▱ 60%  
 
 ---
 
-## ⚡ Fun fact
-I enjoy learning technologies that help build intelligent end-to-end applications 😄
+## 📌 Featured Projects
+🔹 **AI/ML Project** – Solving a real-world problem using machine learningMachine Learning  
+🔹 **Full Stack Web App** – End-to-end application with frontend, backend & database  
+🔹 **Academic / Hackathon Project** – Problem-solving focused implementation  
+
+👉 *More projects coming soon…*
+
+---
+
+## 🛣️ Learning Roadmap
+- ✔ ML fundamentals & Python  
+- ✔ Frontend (HTML, CSS, JavaScript, React)  
+- 🔄 Backend & APIs  
+- 🔄 Model deployment & cloud basics  
+- 🔜 Advanced ML & real-world projects  
+
+---
+
+<details>
+<summary><b>📘 Detailed Learning Journey</b></summary>
+
+- AI & Machine Learning foundations  
+- Full Stack Web Development  
+- Hackathons & project-based learning  
+- Industry exposure through NxtWave  
+
+</details>
 
 ---
 
 ## 🚀 Tech Stack
+*(Badges retained – recruiter friendly)*
 
-### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### 🌐 Full Stack & Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 💻 Languages & Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -86,7 +115,7 @@ I enjoy learning technologies that help build intelligent end-to-end application
 ## 📌 Availability
 - Open to **Summer / Off-cycle Internships**
 - Open to **Entry-Level Full-Time Roles**
-- Willing to learn, adapt, and work in fast-paced environments
+- Willing to learn, adapt, and work in fast-paced environments  
 
 ---
 
@@ -111,10 +140,10 @@ I enjoy learning technologies that help build intelligent end-to-end application
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RameshTummuri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RameshTummuri&theme=radical&margin-w=4)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=RameshTummuri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM -->
+<!-- Final recruiter-ready GitHub README -->
